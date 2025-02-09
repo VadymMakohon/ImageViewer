@@ -1,10 +1,12 @@
 # 🖼️ ImageViewer
 ImageViewer is a lightweight Windows Forms application built with C#, designed for opening, viewing, and saving images in multiple formats. It showcases the use of Windows Forms controls and dialogs to create an intuitive and functional graphical interface for image handling.
 
-## Features
-- Supported formats: .jpg, .bmp, .png. Images are displayed in a resizable, zoom-enabled PictureBox.
-- Allows saving images to the same formats (.jpg, .bmp, .png).
-- Simple menu option to close the application.
+## 🚀 Features
+- ✅ Supports multiple formats: .jpg, .bmp, .png
+- ✅ Resizable & zoom-enabled image viewer
+- ✅ Save images in the same supported formats
+- ✅ Minimalist UI with essential functionality
+- ✅ Simple menu options for quick navigation and app closure
 
 ## Prerequisites
 To run this project, you need:
