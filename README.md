@@ -8,10 +8,11 @@ ImageViewer is a lightweight Windows Forms application built with C#, designed f
 - ✅ Minimalist UI with essential functionality
 - ✅ Simple menu options for quick navigation and app closure
 
-## Prerequisites
-To run this project, you need:
-- .NET Framework (4.7.2 or later recommended)
-- Visual Studio (2019 or later) for development
+## 🛠 Prerequisites
+To run or modify this project, you’ll need:
+
+- .NET Framework 4.7.2 or later (recommended)
+- Visual Studio 2019 or newer for development
 
 ## 📜 License
 
